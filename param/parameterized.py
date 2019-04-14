@@ -535,7 +535,7 @@ class Parameter(object):
     # as 'descriptors' in Python; see "Implementing Descriptors" and
     # "Invoking Descriptors" in the 'Customizing attribute access'
     # section of the Python reference manual:
-    # http://docs.python.org/ref/attribute-access.html
+    # https://docs.python.org/3/reference/datamodel.html#customizing-attribute-access
     #
     # Overview of Parameters for programmers
     # ======================================
